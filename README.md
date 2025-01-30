@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I’m Kunal Masurkar</h1>
 <h3 align="center">A passionate cybersecurity and forensics student, blending expertise in machine learning, IoT, backend development, and online fraud detection.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KunalMasurkar&label=Profile%20views&color=0e75b6&style=flat" alt="KunalMasurkar" />
 </p>
 
