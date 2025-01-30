@@ -7,12 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=KunalMasurkar&label=Profile%20views&color=0000e6&style=bold" alt="KunalMasurkar" />
 </p>
 
-- 🎓 *Education:* BTech in Computer Science (Cybersecurity & Forensics) at MIT ADT UNIVERSITY, Loni Kalbhor  
-- 🌱 *Currently Learning:* Advanced Machine Learning & Cybersecurity Threat Analysis  
-- 💡 *Ask Me About:*  
-  Cybersecurity, AI-based fraud detection, machine learning, IoT security, and backend development.  
-- 📫 *Reach Me At:* kunalmasurkar26@gmail.com 
-- 🎯 *Hobbies:* Traveling, adventure trekking, watching movies, listening to music, researching AI & cybersecurity trends.  
+- 🎓 **Education:** BTech in Computer Science (Cybersecurity & Forensics) at MIT ADT UNIVERSITY, Loni Kalbhor  
+- 🌱 **Currently Learning:** Advanced Machine Learning & Cybersecurity Threat Analysis  
+- 💡 **Ask Me About:** Cybersecurity, AI-based fraud detection, machine learning, IoT security, and backend development.  
+- 📫 **Reach Me At:** kunalmasurkar26@gmail.com 
+- 🎯 **Hobbies:** Traveling, adventure trekking, watching movies, listening to music, researching AI & cybersecurity trends.  
 
 ---
 
