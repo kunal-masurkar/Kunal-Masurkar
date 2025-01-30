@@ -1,4 +1,4 @@
-[![Header](https://github.com/kunal-masurkar/Kunal-Masurkar/blob/main/Kunal.gif)](https://kunal-masurkar.github.io/Portfolio/)
+[![Header](https://github.com/kunal-masurkar/Kunal-Masurkar/blob/main/banner.gif)](https://kunal-masurkar.github.io/Portfolio/)
 
 <h1 align="center">Hi 👋, I’m Kunal Masurkar</h1>
 <h3 align="center">A passionate cybersecurity and forensics student, blending expertise in machine learning, IoT, Backend development</h3>
