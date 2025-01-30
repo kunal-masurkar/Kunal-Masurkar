@@ -1,7 +1,7 @@
 [![Header](https://github.com/KunalMasurkar/KunalMasurkar/blob/main/PROGRAMMER.gif)](https://kunal-masurkar.github.io/Portfolio/)
 
 <h1 align="center">Hi 👋, I’m Kunal Masurkar</h1>
-<h3 align="center">A passionate cybersecurity and forensics student, blending expertise in machine learning, IoT, backend development, and online fraud detection.</h3>
+<h3 align="center">A passionate cybersecurity and forensics student, blending expertise in machine learning, IoT, Backend development</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=KunalMasurkar&label=Profile%20views&color=0000e6&style=bold" alt="KunalMasurkar" />
