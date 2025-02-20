@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=kunal-masurkar" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=kunal-masurkar" alt="GitHub Streak"/>
 </p>
 
 
