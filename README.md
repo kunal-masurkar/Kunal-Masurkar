@@ -18,10 +18,10 @@
 ### 🤝 Connect With Me  
 <p align="left">
   <a href="https://linkedin.com/in/kunal-masurkar-8494a123a" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" width="30" height="30" />
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRZy25qVnXim0IHxSZ9q0eQiW3E-NHXxDjuQ&s" alt="LinkedIn" width="30" height="30"/>
   </a>
-  <a href="https://github.com/KunalMasurkar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" width="30" height="30" />
+  <a href="https://g.dev/KunalMasurkar" target="_blank">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/google-color-icon.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
