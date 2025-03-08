@@ -58,15 +58,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kunal-masurkar&show_icons=true&include_all_commits=true&count_private=true&theme=radical" alt="Kunal Masurkar's GitHub stats" />
 </p>
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=kunal-masurkar&theme=dark&hide_border=false"/>
+
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunal-masurkar&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-
-<p align="center">
-    <img src="https://streak-stats.demolab.com?user=kunal-masurkar" alt="GitHub Streak"/>
-</p>
-
 
 ---
 ### ✍ Random Dev Quote  
