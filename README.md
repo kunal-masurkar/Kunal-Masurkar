@@ -68,7 +68,7 @@
 </p>
 
 ---
-### ✍ Random Dev Quote  
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Readme Quote" />
-</p>
+### ✍ Music Taste  
+&nbsp;<div align="center">
+ ![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=9r1d70h4khphyl295un7sxi9n&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)
+</div>
